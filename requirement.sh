@@ -8,4 +8,4 @@ sleep 0.5
 toilet -f mono12 Install | lolcat
 sleep 0.9
 
-bash PassGen.sh
+bash Passgen.sh
