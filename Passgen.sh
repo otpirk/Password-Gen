@@ -1,18 +1,4 @@
 
-#bash_colour_codes
-
-r= \e[1;31m 
-
-g= \e[1;32m 
-
-y= \e[1;33m 
-
-b= \e[1;34m 
-
-p= \e[1;35m 
-
-lb= \e[1;36m
-
 clear
 
 sleep 0.5
